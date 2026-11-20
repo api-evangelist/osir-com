@@ -1,4 +1,4 @@
-# osir-com
+# OSIR
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,127 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-osir-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://osir.com/
+OSIR is an AI-native domain registrar offering registration across 500+ TLDs, VPS server deployment, and email hosting powered by AI tools. It provides a comprehensive API suite (MCP, A2A, REST) with free WHOIS privacy on every domain, targeting developers and businesses seeking automated domain management solutions.
+
+**Areas:** AI · Domain Registrar · API · Automation · Hosting
+
+## OSIR on APIs.io
+
+Everything profiled for OSIR is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/osir-com/](https://apis.io/providers/osir-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [OSIR API](https://apis.io/apis/osir-com/osir-com-api/) — OSIR API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-20); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Osir Com Webhooks](https://apis.io/asyncapis/osir-com/osir-com-webhooks/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostOauthTokenResponse](https://apis.io/schemas/osir-com/osir-com-post-oauth-token-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Osir Com Context](https://apis.io/jsonld/osir-com/osir-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [OSIR API Rules](https://apis.io/rules/osir-com/osir-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OSIR Authentication](https://apis.io/security/osir-com/osir-com-authentication/)
+- [OSIR Domain Security](https://apis.io/security/osir-com/osir-com-domain-security/)
+- [OSIR Vulnerability Disclosure](https://apis.io/security/osir-com/osir-com-vulnerability-disclosure/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [OSIR Rate Limits](https://apis.io/rate-limits/osir-com/osir-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://osir.com/)
+- [Getting started](https://osir.com/en/help/fossbilling-setup/)
+- [Pricing](https://osir.com/en/pricing/)
+- [Sign up](https://osir.com/en/blog/register-a-domain-with-claude/)
+- [Support](https://osir.com/en/help/)
+- [Blog](https://osir.com/en/blog/)
+- [Security](https://osir.com/en/policies/security/)
+- [Trust centre](https://osir.com/en/extensions/trust/)
+- [Terms of service](https://osir.com/en/policies/terms/)
+- [Privacy policy](https://osir.com/en/policies/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 57.1** — strong · rubric 0.28.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 80.4 |
+| Contract quality | 55.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.4 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 42.6 |
+
+**Agent readiness 41.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/osir-com/](https://apis.io/providers/osir-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OSIR: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/osir-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
